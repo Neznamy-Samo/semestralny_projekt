@@ -2,19 +2,19 @@
     <table class="table text-center">
         <thead>
         <tr>
-            <th style="width: 34%;">Yearly Access</th>
+            <th style="width: 34%">Ročné predplatné</th>
 
-            <th style="width: 22%;">T1 $420</th>
+            <th style="width: 22%;">T1: 30&euro;</th>
 
-            <th style="width: 22%;">T2 $640</th>
+            <th style="width: 22%;">T2: 45&euro;</th>
 
-            <th style="width: 22%;">T3 $860</th>
+            <th style="width: 22%;">T3: 60&euro;</th>
         </tr>
         </thead>
 
         <tbody>
         <tr>
-            <th scope="row" class="text-start">Golf Insurance</th>
+            <th scope="row" class="text-start">Poistenie</th>
 
             <td>
                 <i class="bi-check-circle-fill"></i>
@@ -30,7 +30,7 @@
         </tr>
 
         <tr>
-            <th scope="row" class="text-start">Club Facilities</th>
+            <th scope="row" class="text-start">Stravovanie</th>
 
             <td>
                 <i class="bi-check-circle-fill"></i>
@@ -46,7 +46,7 @@
         </tr>
 
         <tr>
-            <th scope="row" class="text-start">Country Club</th>
+            <th scope="row" class="text-start">Ubytovanie</th>
 
             <td>
                 <i class="bi-x-circle-fill"></i>
@@ -62,7 +62,7 @@
         </tr>
 
         <tr>
-            <th scope="row" class="text-start">Weekend Seasonal</th>
+            <th scope="row" class="text-start">Víkendové turnaje</th>
 
             <td>
                 <i class="bi-x-circle-fill"></i>
@@ -78,7 +78,7 @@
         </tr>
 
         <tr>
-            <th scope="row" class="text-start">Premium Courses</th>
+            <th scope="row" class="text-start">Golfová škola</th>
 
             <td>
                 <i class="bi-x-circle-fill"></i>
@@ -94,7 +94,7 @@
         </tr>
 
         <tr>
-            <th scope="row" class="text-start">Pro's Networking</th>
+            <th scope="row" class="text-start">Neobmedzený vstup</th>
 
             <td>
                 <i class="bi-x-circle-fill"></i>

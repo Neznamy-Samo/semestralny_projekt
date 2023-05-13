@@ -1,0 +1,1 @@
+<a href="event_list.php">List Events </a> / <a href="home_events.php"> Insert Events</a>
